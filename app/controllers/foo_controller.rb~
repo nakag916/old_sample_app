@@ -1,0 +1,7 @@
+class FooController < ApplicationController
+    def foo
+    end
+    
+    def bar
+    end
+end
